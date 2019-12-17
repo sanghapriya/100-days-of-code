@@ -23,3 +23,19 @@
 
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+
+
+### Day 2: 17-12-2019
+
+
+**Today's Progress**:
+                    1. Added react-bootstrap from https://react-bootstrap.github.io/
+                    2. Implemented Menu
+                    3. Implemented Drag from Menu
+
+
+**Thoughts:** Need to understand how to bootstrap works with react, would probably need to implement Redux for dragging element. Need to implement multiple drags from the menu.
+
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
