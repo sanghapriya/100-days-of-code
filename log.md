@@ -39,3 +39,17 @@
 
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+
+
+### Day 2: 18-12-2019
+
+
+**Today's Progress**:
+                    1. Implemented multiple drags.
+
+
+**Thoughts:** Struggled with multiple drags but ultimately won :) There is an obvious need for an centralised store of data and from what I gather redux might be the answer. Although am getting good with javascript, I think I need to understand ES6 notation at some point.
+
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
