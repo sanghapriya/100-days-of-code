@@ -53,3 +53,18 @@
 
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+
+
+
+### Day 2: 19-12-2019- 20-12-2019(2:27 am)
+
+
+**Today's Progress**:
+                    1. Tried and failed to implemented redux
+
+
+**Thoughts:** Implementing redux might have been a mistake :(
+
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
