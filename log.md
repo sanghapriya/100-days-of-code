@@ -41,7 +41,7 @@
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 
 
-### Day 2: 18-12-2019
+### Day 3: 18-12-2019
 
 
 **Today's Progress**:
@@ -56,7 +56,7 @@
 
 
 
-### Day 2: 19-12-2019- 20-12-2019(2:27 am)
+### Day 4: 19-12-2019- 20-12-2019(2:27 am)
 
 
 **Today's Progress**:
@@ -64,6 +64,21 @@
 
 
 **Thoughts:** Implementing redux might have been a mistake :(
+
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+
+
+### Day 5: 20-12-2019- 21-12-2019(1:43 am)
+
+
+**Today's Progress**:
+                    1. Implemented Redux and allow multiple item drag.
+                    2. Implemented individual drag.
+
+
+**Thoughts:** Really good learning of how redux works. Getting a hang of how to write imperative coding. Redux might not be so bad. Next is to join elements which might be a bit of challenge. 
 
 
 
