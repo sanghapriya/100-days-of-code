@@ -83,3 +83,19 @@
 
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+
+
+### Day 5: 21-12-2019- 22-12-2019(0:33 am)
+
+
+**Today's Progress**:
+                    1. Added multiple options to the menu.
+                    2. Renamed few file to make it generic.
+
+
+**Thoughts:** Need to find a way to have connectors, need to work on a solution to delete items from the canvas. Need to understand how css works.
+
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+
