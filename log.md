@@ -85,7 +85,7 @@
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 
 
-### Day 5: 21-12-2019- 22-12-2019(0:33 am)
+### Day 6: 21-12-2019- 22-12-2019(0:33 am)
 
 
 **Today's Progress**:
@@ -95,6 +95,19 @@
 
 **Thoughts:** Need to find a way to have connectors, need to work on a solution to delete items from the canvas. Need to understand how css works.
 
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+
+
+### Day 7: 22-12-2019- 23-12-2019(0:13 am)
+
+
+**Today's Progress**:
+                    1. Added code for Line drag.
+
+
+**Thoughts:** Found out svg will work for line, and tested creating svg in the app. Probably need to think about the react structure.
 
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
