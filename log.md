@@ -112,3 +112,17 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 
+
+### Day 8: 23-12-2019- 24-12-2019(1:18 am)
+
+
+**Today's Progress**:
+                    1. Started working on another as a POC for Line drag
+
+
+**Thoughts:** Need to get a working draw application. It might not be as easy as I was thinking about it.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+                 
+                    [Draw] (https://github.com/sanghapriya/draw)
