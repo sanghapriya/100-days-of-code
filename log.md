@@ -124,5 +124,19 @@
 
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
-                 
-                    [Draw] (https://github.com/sanghapriya/draw)
+[Draw] (https://github.com/sanghapriya/draw)
+
+
+
+### Day 9: 24-12-2019- 25-12-2019(0:46 am)
+
+
+**Today's Progress**:
+                    Finished POC, used svg to draw straight lines.
+
+
+**Thoughts:** There are multiple ways of drawing lines in js, we can use canvas, a library konva which as a react plugin react-konva. I have used plain js and svg to draw lines. Next up I need to make line draw work in Process model app, may be in future I will add more functionality in the draw app.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw] (https://github.com/sanghapriya/draw)
