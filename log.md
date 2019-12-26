@@ -154,3 +154,18 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+
+### Day 11: 26-12-2019 23:32 pm
+
+
+**Today's Progress**:
+                    POC: Am now able to delete multiple lines. Able to change the color of the selected lines :)
+
+
+**Thoughts:** Need to add the feature of the deselect lines, should be straight forward. 
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
