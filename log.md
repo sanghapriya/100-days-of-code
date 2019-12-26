@@ -140,3 +140,17 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 10: 25-12-2019- 26-12-2019(2:12 am)
+
+
+**Today's Progress**:
+                    Continued POC to select and delete lines. sucessful partially.
+
+
+**Thoughts:** Learnt about event.persist() . I need to learn how react works to make the most of the library. Need to change color of the object when selected.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
