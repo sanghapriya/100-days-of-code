@@ -169,3 +169,17 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 12: 27-12-2019
+
+
+**Today's Progress**:
+                    POC: Working on Selecting multiple lines.
+
+
+**Thoughts:** A bit of setback, my laptop charger stopped working, probably need to get a replacement. 
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
