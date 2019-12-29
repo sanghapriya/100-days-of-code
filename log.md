@@ -183,3 +183,18 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+
+### Day 13: 28-12-2019 - 29-12-2019 (0:20 am)
+
+
+**Today's Progress**:
+                    Draw: Able to draw the multi-select box
+
+
+**Thoughts:** Laptop charger is miracalously working fine since morning :) The bootstrap is making stuff weird, for now removed the code. I was able to draw the multi select box, need to add caclulation for selection. Need to clean up the code. Going as planned for now. Should be able to implement these features in the process modeler app.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
