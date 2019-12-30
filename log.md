@@ -198,3 +198,17 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 14: 29-12-2019 - 30-12-2019 (0:55 am)
+
+
+**Today's Progress**:
+                    Draw: Made multi select work, looks pretty cool
+
+
+**Thoughts:** Made the multi select work. It is looking pretty good. I have some idea about how to make the select box work more like a drag than two clicks. There are some bugs with the generation of selection box which needs to be fixed, but all in all I am pretty happy with how the work has gone. At some point of time I think I will move back to the process modeler app, but I plan to keep the Draw app running, adding features to it whenever I can.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
