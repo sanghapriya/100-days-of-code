@@ -212,3 +212,19 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+
+### Day 14: 30-12-2019 (23:38 pm) 
+
+
+**Today's Progress**:
+                    Draw: Fixed the bug with multi select.
+                    Process model: Changed elements into svg.
+
+
+**Thoughts:** Stopped working on the draw app after fixing the bug, more enhancements can be added but I will add them later. Working on the process model app now. Changed all elements into svg instead of css, I feel its easier to maintain the code but the problem is drag events doesnt work in svg, hence need to find a combination of onMouseDown, onMove and onMouseUp. The new combination should help with drawing lines. Theoritically I think its possible but I need a clear head to work on this problem.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
