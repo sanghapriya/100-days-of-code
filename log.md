@@ -228,3 +228,33 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+
+### Day 16: 31-12-2019 (2:00 am) 
+
+
+**Today's Progress**:
+                    Process model: Changed the code to make drag work with a combination of MouseDown,MouseMove and MouseUp movement.
+
+
+**Thoughts:** Could not sleep at night, so decided to code for a while, ended up working for 2 hours, this involved writing notes in my notebook and coding. I certainly think writing down the logic in a notebook and then coding it makes the job easier. I have written the logic of how to make the line draw work. Next up  coding the line draw.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
+
+
+
+### Day 17: 1-1-2020 (23:54 pm) 
+
+
+**Today's Progress**:
+                    Process model: Created a new state element for Line Select.
+
+
+**Thoughts:** Could not give my full attention to the app, changed the code a bit to accomodate line select. Need to code the line draw.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
