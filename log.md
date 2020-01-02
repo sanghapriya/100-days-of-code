@@ -258,3 +258,17 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 18: 2-1-2020 (23:54 pm) 
+
+
+**Today's Progress**:
+                    Process model: Drew lines from element
+
+
+**Thoughts:** Need to rethink about lines. Need to draw lines via elements, lines cannot exists independently and needs to tied into element.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
