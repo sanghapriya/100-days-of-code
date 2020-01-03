@@ -272,3 +272,32 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+
+### Day 17: 1-1-2020 (23:54 pm) 
+
+
+**Today's Progress**:
+                    Process model: Created a new state element for Line Select.
+
+
+**Thoughts:** Could not give my full attention to the app, changed the code a bit to accomodate line select. Need to code the line draw.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 19: 2-1-2020 (19:31 pm) 
+
+
+**Today's Progress**:
+                    Process model: Drew lines from element and attached them to other elements.
+
+
+**Thoughts:** I am very happy with my progress, am not able to move the line along with the element drag. Next up, I need to select element and delete them. Should be straight forward given I have the code in the Draw app.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
