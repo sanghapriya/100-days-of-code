@@ -275,21 +275,7 @@
 
 
 
-### Day 17: 1-1-2020 (23:54 pm) 
-
-
-**Today's Progress**:
-                    Process model: Created a new state element for Line Select.
-
-
-**Thoughts:** Could not give my full attention to the app, changed the code a bit to accomodate line select. Need to code the line draw.
-
-
-**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
-[Draw](https://github.com/sanghapriya/draw)
-
-
-### Day 19: 2-1-2020 (19:31 pm) 
+### Day 19: 3-1-2020 (19:31 pm) 
 
 
 **Today's Progress**:
@@ -297,6 +283,21 @@
 
 
 **Thoughts:** I am very happy with my progress, am not able to move the line along with the element drag. Next up, I need to select element and delete them. Should be straight forward given I have the code in the Draw app.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
+
+
+
+### Day 20: 4-1-2020 (2:00 am) 
+
+
+**Today's Progress**:
+                    Process model: Refractored code 
+
+
+**Thoughts:** Refractored the reducer, everything works as it should be. Copied the Generate Select Box code from the lines project.
 
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
