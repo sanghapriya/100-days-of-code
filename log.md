@@ -302,3 +302,17 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 21: 5-1-2020 - 6-1-2010 (00:02 am) 
+
+
+**Today's Progress**:
+                    Process model: Able to draw Select Box in process modeler. 
+
+
+**Thoughts:** Need to add logic to select element after Select Box, need to change color of the selected elements. 
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
