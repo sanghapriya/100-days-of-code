@@ -331,3 +331,16 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+### Day 23: 7-1-2020 - 8-1-2010 (00:57 am) 
+
+
+**Today's Progress**:
+                    Process model: Able to Select Lines without defect, Bug exist with selection of element
+
+
+**Thoughts:** Not able to work with a fresh mind due the stuff from work, dont think it will improve this week.Need to add logic to select element after Select Box, need to change color of the selected elements. + Introduced a bug for selecting Elements. Need to store the Element Type in Element Details object. 
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
