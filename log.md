@@ -344,3 +344,47 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+
+### Day 24: 8-1-2020 - 9-1-2010 (01:05 am) 
+
+
+**Today's Progress**:
+                    Process model: Able to Select Lines and Elements, Added Delete button
+
+
+**Thoughts:** I think  I have a good hang of how things work or should work in my app, and react and redux. I need to think of new features now. Uploading and download svg would one of the main work. 
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 25: 9-1-2010
+
+
+**Today's Progress**:
+                    Process model: Added Deletion of items functionality, with a lot of bugs
+
+
+**Thoughts:** Need to think of a better strategy to connect elements using line.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
+
+
+
+### Day 26: 10-1-2010
+
+
+**Today's Progress**:
+                    Process model: Added Connceting point to lines and activities
+
+
+**Thoughts:** Am in the process of changing how I display elements in the process model. Need to go up one level, think of real features now that I more or less understand how thinks work.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
