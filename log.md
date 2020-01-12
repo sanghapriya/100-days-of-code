@@ -388,3 +388,17 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 27: 11-1-2020-12-1-2020
+
+
+**Today's Progress**:
+                    Read about Node.js and Webpack
+
+
+**Thoughts:** Explored with few plans for additional projects html game, pattern draw etc. Need to understand the basics of Node.js and Webpack.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
