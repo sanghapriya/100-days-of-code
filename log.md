@@ -402,3 +402,29 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 28: 12-1-2020
+
+**Today's Progress**:
+                    Started working on a Tetris app from a freecodecamp youtube video
+
+
+**Thoughts:** I decided to take a break from the process modeler app, in order to understand how others use React and particularly game programming is done in React. The output of this learning I am hoping is to understand enough of game code,extract the knowledge and then implement them into the process modeler app.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 29: 13-1-2020
+
+**Today's Progress**:
+                    Still working on tetris app
+
+
+**Thoughts:** No progress today as I was working and travelling.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
