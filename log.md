@@ -428,3 +428,17 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
+
+
+### Day 30: 14-1-2020
+
+**Today's Progress**:
+                    Following instructions to build the Tetris app
+
+
+**Thoughts:** Wrote some code today, although its mostly copy and paste, I think in the long term I will learn few tricks from this excercise.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
+[Tetris] (https://github.com/sanghapriya/tetris_v1)
