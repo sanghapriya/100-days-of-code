@@ -442,3 +442,17 @@
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
 [Tetris] (https://github.com/sanghapriya/tetris_v1)
+
+
+### Day 31: 15-1-2020
+
+**Today's Progress**:
+                    Following instructions to build the Tetris app
+
+
+**Thoughts:** Understood how styled div and react hooks works, might be useful in the future. I plan to complete the tutorial and get back to the process modeler app. I am also thinking of studying css more closely, it might be useful.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
+[Tetris] (https://github.com/sanghapriya/tetris_v1)
