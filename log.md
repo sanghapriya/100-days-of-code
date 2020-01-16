@@ -456,3 +456,19 @@
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
 [Tetris] (https://github.com/sanghapriya/tetris_v1)
+
+
+
+### Day 31: 15-1-2020
+
+**Today's Progress**:
+                    Created a different project to generate random tetrominos   
+
+
+**Thoughts:** Read about Tetris and tetromiones. Completed basic css from freecodecamp. Learned about hooks and setinterval. I created a new project to generated random tetrominos in the screen and move them.
+
+
+**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw)
+[Tetris] (https://github.com/sanghapriya/tetris_v1)
+[Tetrominos] (https://github.com/sanghapriya/tetrominos)
