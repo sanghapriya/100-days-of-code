@@ -441,7 +441,7 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
-[Tetris] (https://github.com/sanghapriya/tetris_v1)
+[Tetris](https://github.com/sanghapriya/tetris_v1)
 
 
 ### Day 31: 15-1-2020
@@ -455,7 +455,7 @@
 
 **Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
 [Draw](https://github.com/sanghapriya/draw)
-[Tetris] (https://github.com/sanghapriya/tetris_v1)
+[Tetris](https://github.com/sanghapriya/tetris_v1)
 
 
 
@@ -468,7 +468,40 @@
 **Thoughts:** Read about Tetris and tetromiones. Completed basic css from freecodecamp. Learned about hooks and setinterval. I created a new project to generated random tetrominos in the screen and move them.
 
 
-**Link to work:** [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
-[Draw](https://github.com/sanghapriya/draw)
-[Tetris] (https://github.com/sanghapriya/tetris_v1)
-[Tetrominos] (https://github.com/sanghapriya/tetrominos)
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 33: 17-1-2020
+
+**Today's Progress**:
+                    Generated multiple tetrominos of one type   
+
+
+**Thoughts:** Progressed a bit with random tetrominos of one type.
+
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 34: 18-1-2020
+
+**Today's Progress**:
+                   Generated multiple tetrominos of random type    
+
+
+**Thoughts:**  I need to move the tetrominos from right to left, and implement collison of objects. 
+
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
