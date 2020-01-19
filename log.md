@@ -505,3 +505,19 @@
 [Draw](https://github.com/sanghapriya/draw) 
 [Tetris](https://github.com/sanghapriya/tetris_v1)
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 35: 19-1-2020
+
+**Today's Progress**:
+                   Moved the tetrominos from right to left.    
+
+
+**Thoughts:**  Need to learn about collision, get the user object in the game and make the game really.
+
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
