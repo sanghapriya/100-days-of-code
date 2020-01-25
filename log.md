@@ -536,3 +536,20 @@
 [Draw](https://github.com/sanghapriya/draw) 
 [Tetris](https://github.com/sanghapriya/tetris_v1)
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+
+### Day 37: 24-1-2020 - 25-1-2020
+
+**Today's Progress**:
+                   Used context api to share state, made the traveller move.
+
+
+**Thoughts:**  Could not work for 3 days cause I forgot the charger home. I learnt about context api in react and now am able to use to share state across hooks. 
+
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
