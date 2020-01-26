@@ -553,3 +553,19 @@
 [Draw](https://github.com/sanghapriya/draw) 
 [Tetris](https://github.com/sanghapriya/tetris_v1)
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 38: 25-1-2020 - 26-1-2020 (01:01am)
+
+**Today's Progress**:
+                   Fixed traveller movement.
+
+
+**Thoughts:**  Fixed traveller movement, Context.api is easier to use than Redux. Need to implement collision now.
+
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
