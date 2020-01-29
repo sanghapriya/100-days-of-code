@@ -586,3 +586,33 @@
 [Draw](https://github.com/sanghapriya/draw) 
 [Tetris](https://github.com/sanghapriya/tetris_v1)
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+### Day 40: 27-1-2020
+
+**Today's Progress**:
+                   Worked on collision detection
+
+
+**Thoughts:**   Probably need to have clear head before I can implment collision detection.
+
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 41: 28-1-2020
+
+**Today's Progress**:
+                   Removed SVG components and replaced them with styled components
+
+
+**Thoughts:**   Removed SVG components and replaced them with styled components. I think it will help me get capture keyboard events. Need to work on collision detection. Watched multiple videos of p5.js it might be fun to learn.
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
