@@ -616,3 +616,18 @@
 [Draw](https://github.com/sanghapriya/draw) 
 [Tetris](https://github.com/sanghapriya/tetris_v1)
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 42: 29-1-2020- 30-1-2020
+
+**Today's Progress**:
+                   Implemented collision detection
+
+
+**Thoughts:**  I think the Tetrominos project is now completed. I may revisit this in future to try and add keyboard event to the traveller. Next I will probably pick up some new library may be p5.js or will go back to the process modeler project.
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
