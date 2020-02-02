@@ -663,13 +663,28 @@
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
 
 
-### Day 45: 31-1-2020
+### Day 45: 1-2-2020
 
 **Today's Progress**:
                    Exploring p5 js
 
 
 **Thoughts:** Still deciding what project should I implement using p5.js. Probably may go back to React and come back to p5 later, but the possibility of doing something with p5 is really limitless. I have an idea of visualizing algorithms which I may do in p5.
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 46: 02-02-2020
+
+**Today's Progress**:
+                   Drew a Binary Tree using p5 (almost)
+
+
+**Thoughts:** Will work on algorithm using p5 project, atleast will implement few basic algorithms.
 
 **Link to work:** 
 [Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
