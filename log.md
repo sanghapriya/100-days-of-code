@@ -691,3 +691,18 @@
 [Draw](https://github.com/sanghapriya/draw) 
 [Tetris](https://github.com/sanghapriya/tetris_v1)
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 47: 17-02-2020
+
+**Today's Progress**:
+                 Started working on process modeler, add styled components
+
+
+**Thoughts:** I had been distracted with my 100daysof code challenge due to my health and work. I will focus on process modeler app now, and also focus to learn react js.
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
