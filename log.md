@@ -706,3 +706,33 @@
 [Draw](https://github.com/sanghapriya/draw) 
 [Tetris](https://github.com/sanghapriya/tetris_v1)
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 48: 25-02-2020
+
+**Today's Progress**:
+                 Removed svg, added styled components
+
+
+**Thoughts:** Removed the svg elements from the process modeler and added styled components.
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 49: 26-02-2020
+
+**Today's Progress**:
+                 Figured out how to draw lines with svg, but drawing the other elements using css.
+
+
+**Thoughts:** Finally figured how to draw lines between svg components, while the other elements are only css divs. Am not sure if converting the elements in css div was a good idea, but its done now. Will focus on getting app up and running.
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
