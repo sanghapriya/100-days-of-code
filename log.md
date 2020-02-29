@@ -752,3 +752,18 @@
 [Draw](https://github.com/sanghapriya/draw) 
 [Tetris](https://github.com/sanghapriya/tetris_v1)
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 51: 29-02-2020
+
+**Today's Progress**:
+                 Cleaned up pointers
+
+
+**Thoughts:** Need to seperate line drawing functions and allow them only from pointers.
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
