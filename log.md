@@ -767,3 +767,33 @@
 [Draw](https://github.com/sanghapriya/draw) 
 [Tetris](https://github.com/sanghapriya/tetris_v1)
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 52: 2-03-2020
+
+**Today's Progress**:
+                 Wrote some code to draw lines from pointer to pointer
+
+
+**Thoughts:** Working on separating lines from one to another, work is left to be done for this functionality. Also bought a domain sangatwork.com.
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 52: 3-03-2020 -  04-03-2020 (00:34)
+
+**Today's Progress**:
+                 Same as above, still buggy
+
+
+**Thoughts:** Still buggy code, need to clean up
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
