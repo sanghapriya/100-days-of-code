@@ -797,3 +797,18 @@
 [Draw](https://github.com/sanghapriya/draw) 
 [Tetris](https://github.com/sanghapriya/tetris_v1)
 [Tetrominos](https://github.com/sanghapriya/tetrominos)
+
+
+### Day 52: 04-03-2020 (23:46)
+
+**Today's Progress**:
+                 Stable product but the lines are not matching with the pointers
+
+
+**Thoughts:** Huge clean up done, but lines are not matching with pointers, may need to think of a different strategy.
+
+**Link to work:** 
+[Process Modeler v1](https://github.com/sanghapriya/process-modeler-v1)
+[Draw](https://github.com/sanghapriya/draw) 
+[Tetris](https://github.com/sanghapriya/tetris_v1)
+[Tetrominos](https://github.com/sanghapriya/tetrominos)
